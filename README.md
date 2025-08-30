@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=b597d9)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&theme=gotham&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketley-Souza&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketley-Souza&layout=compact&theme=react&hide_border=true&hide=html,css&count_private=true&token=SEU_TOKEN)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
