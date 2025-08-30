@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=b597d9)
-![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&theme=gotham&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketley-Souza&layout=compact&theme=react&hide_border=true&hide=html,css&count_private=true&token=SEU_TOKEN)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
+![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=00000000&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7)
+
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
 
