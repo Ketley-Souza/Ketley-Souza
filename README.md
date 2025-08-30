@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
+font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
 
 <!--
 **Ketley-Souza/Ketley-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+
+# <img width="50" height="50" alt="estatistica" src="https://github.com/user-attachments/assets/fcf71f50-b675-4b36-9bb4-3794c0c896a1" /> GitHub Stats:
+
+
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
