@@ -29,15 +29,11 @@ Here are some ideas to get you started:
 # <img width="50" height="50" alt="estatistica" src="https://github.com/user-attachments/assets/fcf71f50-b675-4b36-9bb4-3794c0c896a1" /> GitHub Stats:
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&hide_title=true&bg_color=00000000&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=00000000&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7" width="420"/>
 
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
-![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=00000000&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7)
-
-
+## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
 
