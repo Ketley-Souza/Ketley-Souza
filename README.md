@@ -1,4 +1,4 @@
-font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
 
 <!--
 **Ketley-Souza/Ketley-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
