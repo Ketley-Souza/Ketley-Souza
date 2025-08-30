@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=A29BFE&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=435&lines=Hi,+I'm+Ketley+👩‍💻;I'm+a+Student+of+Information+Systems;Front-end+%26+UX/UI+Enthusiast;Welcome+to+my+GitHub💜)](https://git.io/typing-svg)
 
 <!--
 **Ketley-Souza/Ketley-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&theme=gotham&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketley-Souza&layout=compact&theme=react&hide_border=true&hide=html,css&count_private=true&token=SEU_TOKEN)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=2E1A47&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
