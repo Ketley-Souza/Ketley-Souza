@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&bg_color=00000000&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=00000000&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=00000000&currStreakNum=7A5ACF&sideNums=8888AA&sideLabels=AAAAAA&dates=999999&ring=7A5ACF&fire=5D3FD3&currStreakLabel=AAAAAA)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
