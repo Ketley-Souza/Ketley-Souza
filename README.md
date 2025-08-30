@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketley-Souza&layout=compact&theme=react&hide_border=true&hide=html,css&count_private=true&token=SEU_TOKEN)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=2E1A47&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
