@@ -18,7 +18,7 @@ Atualmente curso Sistemas de Informação no Centro Universitário de Patos de M
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketley-Souza&show_icons=true&hide_title=true&bg_color=FFFFFF00&border_color=C1B2D7&text_color=E0E0E0&title_color=8A6FCB&icon_color=5D3FD3)
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=FFFFFF00&border_color=C1B2D7&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7" width="420"/></br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ketley-Souza&hide_border=false&background=FFFFFF00&border_color=C1B2D7&currStreakNum=8A6FCB&sideNums=D6D3E5&sideLabels=C1B2D7&dates=D6D3E5&ring=8A6FCB&fire=5D3FD3&currStreakLabel=C1B2D7" width="410"/></br>
 <br><br>
 
 ## Projects
