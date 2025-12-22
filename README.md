@@ -23,6 +23,7 @@ Atualmente curso Sistemas de Informação no Centro Universitário de Patos de M
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Os-Guerreiros-Landingpage&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Os-Guerreiros-Landingpage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ketley-Souza&repo=Agendei&title_color=5D3FD3&text_color=D6D3E5&icon_color=8A6FCB&bg_color=FFFFFF00&border_color=C1B2D7)](https://github.com/Ketley-Souza/Agendei)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
