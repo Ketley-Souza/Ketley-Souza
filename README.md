@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=500&lines=Olá,+eu+me+chamo+Ketley+👩‍💻;Sou+estudante+de+Sistemas+de+Informação;Entusiasta+de+Front-end+%26+UX/UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=5D3FD3&width=500&lines=Olá,+eu+me+chamo+Ketley+👩‍💻;Sou+estudante+de+Sistemas+de+Informação;)](https://git.io/typing-svg)
 
 
 Sou apaixonada por tecnologia e pelo impacto que ela pode gerar na vida das pessoas.  
